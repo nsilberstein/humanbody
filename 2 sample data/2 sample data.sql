@@ -1,3 +1,4 @@
+--NS Please populate sample data with planets....
 insert body(bodypart, num)
 select 'eyes', 2
 union select 'ears', 2
